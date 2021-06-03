@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against passing the bill, for exempting apothecaries from serving the offices of constable, scavenger, and other parish and ward-offices.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28726</idno><idno type="EEBO-CITATION">99885078_195769</idno>
+  <idno type="VID">195769</idno>
+  <idno type="EEBO-PROQUEST">2248522056</idno>
+  
+            <idno type="STC">Wing R523G</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[25]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.l.1.[14]</idno>
+            <idno type="STC">ESTC R220602</idno>
+            <idno type="PROQUEST">ocm99885078</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885078e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195769)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[25], E7:1[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against passing the bill, for exempting apothecaries from serving the offices of constable, scavenger, and other parish and ward-offices.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pharmacists --  Early works to 1800.</term>
+               <term type="topical_term">Parishes (Local government) --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195769:1"/>
+            <pb facs="tcp:195769:1"/>
+            <head>
+               <hi>REASONS</hi> Humbly Offered against Passing the <hi>BILL,</hi> For Exempting <hi>Apothecaries</hi> from Serving the Offices of <hi>Constable, Scavenger,</hi> and other Parish and Ward-Offices.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> THE <hi>BILL</hi> is founded upon Untrue Suggestions in the Preamble, <hi>(Viz.) That their Serving Parish, Ward and Leet-Offices, takes up so much of their Time, that they cannot perform their Trust in their Trade, nor Attend their Patients according to their Duty.</hi>
+            </p>
+            <p>Whereas their Trust in their Trade is only to Make up and Compound, by themselves and Servants, such Medicines as are Prescribed by the <hi>Physician,</hi> or Directed by the <hi>Dispensatory;</hi> And what they do more than this, is besides their Duty and Trust,<note place="margin">14 <hi>&amp;</hi> 15 <hi>H.</hi> 8. <hi>cap.</hi> 5.</note> and not allowed by Law: For by the Statute of 14 <hi>&amp;</hi> 15 <hi>H.</hi> 8 <hi>cap.</hi> 5. and by an Ordinance of the <hi>Colledge of Physicians,</hi> the <hi>Apothecaries</hi> are prohibited to Administer, Advise or Prescribe <hi>Physick,</hi> under a Penalty. And the Statute of 32 <hi>H</hi> 8 <hi>cap.</hi> 40. doth not Intrust the <hi>Apothecaries</hi> with the Judgment of their Drugs and Wares;<note place="margin">32 <hi>H.</hi> 8. <hi>cap.</hi> 40.</note> but Ordains that <hi>Four Physicians</hi> shall be Yearly Sworn to Search and Try them, and to burn and destroy such as they shall not find good. And their Duty is, To carry and send Medicines and their Wares to their <hi>Customers</hi> and <hi>Patients,</hi> as other Tradesmen do; which is generally done by their <hi>Servant's,</hi> with a Direction in Writing only thereunto affixed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The <hi>Apothecaries</hi> Proceedings, in Endeavouring to Obtain this <hi>BILL,</hi> is very Unequal and <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> partial:</p>
+            <p>For by the <hi>Bill,</hi> they would be Excused their Service of Parish and Ward Offices, <hi>(Viz.) Churchwardens, Overseers of the Poor, Constables, Scavengers,</hi> and <hi>Quest-Men,</hi> which are of great Necessity and for Common Good, and seldom or never happen to any Man more than Once, which they may Execute either by themselves, or Deputies. For the Parish Offices, as <hi>Churchwardens</hi> and <hi>Overseers of the Poor,</hi> are Executed at such Times as they themselves Appoint; and may be, and are Executed as well by <hi>Some</hi> as by <hi>All,</hi> in Ease of each other: And the Ward-Offices, as <hi>Constable</hi> and <hi>Scavenger,</hi> They may serve either by <hi>Themselves</hi> or by a <hi>Deputy;</hi> And such Custom has been by <hi>Rolls,</hi>
+               <note place="margin">See <hi>Style</hi>'s Reports, fo. 362</note> Chief Justice, Adjudg'd good, who did provide One to <hi>Serve for him in his Turn.</hi>
+            </p>
+            <p>And yet the <hi>Apothecaries</hi> Seek and Serve such Offices as require much greater Attendances, and must be Executed <hi>in Person,</hi> and not by a <hi>Deputy;</hi> as <hi>Aldermens Deputies, Common-Council Men, Governors of Hospitals, Commissioners of Lieutenancy,</hi> and <hi>Sewers,</hi> and <hi>Military Offices;</hi> and are as Busy in the Elections of <hi>Lord Mayor, Aldermen, Sheriffs, Chamberlain, Auditors of the Cities Accompts, Bridge-Masters,</hi> and other Officers: And their Care of their <hi>Patients</hi> is not so prevalent, as to Induce them to <hi>quit,</hi> or not to <hi>seek</hi> such Employments, as make either for their <hi>Honour</hi> or <hi>Interest.</hi> Which evidently shews, The <hi>Apothecaries</hi> Design is not to save their <hi>Time,</hi> but their <hi>Mony,</hi> in providing a <hi>Deputy;</hi> and to put the <hi>Trouble</hi> and <hi>Charge</hi> upon their poor Neighbours, that they may reap the Benefit of their Neighbors <hi>Trouble</hi> and <hi>Expence.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> The <hi>Apothecaries</hi> have not the same Reason to be Excus'd from Parish and Ward-Offices, as the <hi>Physicians</hi> have: For that the <hi>Physicians</hi> must <hi>Personaly Attend their Patients,</hi> and <hi>Exercise their Faculty;</hi> and cannot do it by <hi>Others,</hi> as the <hi>Apothecaries</hi> may, and do.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> The <hi>Fines</hi> pretended to be taken for Excuse, are never Demanded of any; but sometimes at the Desire of <hi>such Persons</hi> as are Excused. <hi>Fines</hi> are taken and applied to the Publick Uses of their respective <hi>Wards</hi> and <hi>Parishes,</hi> and not otherwise: And are expresly forbid by <hi>Common-Council,</hi> to be applied to <hi>Feasting,</hi> or any such Uses, as the <hi>Apothecaries</hi> in their <hi>CASE</hi> pretend.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> The <hi>Exemption</hi> desired by this <hi>BILL,</hi> Extends to all other <hi>Towns</hi> and <hi>Corporations</hi> in <hi>England,</hi> where the <hi>Apothecaries</hi> that would be Excused from <hi>Offices</hi> are (in proportion to Others, who are liable to <hi>Serve these Offices</hi>) as Numerous as they are in <hi>London.</hi>
+            </p>
+            <p>☞ <milestone type="tcpmilestone" unit="unspecified" n="VI"/>
+               <hi>Note,</hi> The Exemptions from <hi>Parish</hi> and <hi>Ward-Offices</hi> within the City of <hi>London,</hi> are such and so many already, that there is rather need of a Law to oblige <hi>Others</hi> to Serve these <hi>Offices</hi> either in <hi>Person</hi> or by <hi>Deputy,</hi> for the Common Good, (especially at this Time, when <hi>Taxes</hi> and <hi>Offices</hi> are so many) rather than Excuse <hi>more;</hi> Which tends to the great Oppression of the <hi>Subject</hi> but more particularly of the <hi>Meaner sort.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:195769:2"/>
+            <p>REASONS Against The <hi>Apothecaries</hi> BILL.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
